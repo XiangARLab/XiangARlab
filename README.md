@@ -1,4 +1,4 @@
-- 👋 Hi, This is @AR Lab
+- 👋 Hi, This is @XiangARLab https://lr-xiang.github.io/lxweb/
 - 👀 It's a github repository for AR Lab team.
 - 🌱 Our research mainly focuses on agricultural robotics, 2D & 3D computer vision, and machine learning.
 - 💞️ We aim to develop smart cyber-physical systems that integrate cutting-edge robotics, machine vision, and machine learning technologies to automate labor-intensive tasks in agricultural systems.
